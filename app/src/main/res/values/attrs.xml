@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="netView">
+
+        <!--网格颜色-->
+        <attr name="netColor" format="color"/>
+
+        <!--值覆盖区颜色-->
+        <attr name="overlayColor" format="color"/>
+
+        <!--文本颜色-->
+        <attr name="textColor" format="color"/>
+
+        <!--文本字体大小-->
+        <attr name="textSize" format="float"/>
+
+        <!--内网数量-->
+        <attr name="count" format="integer"/>
+
+        <!--最大值-->
+        <attr name="maxValue" format="float"/>
+
+        <!--目标值的名称-->
+        <attr name="targetName" format="string"/>
+
+        <!--点击扩大的区域-->
+        <attr name="expandValue" format="float"/>
+
+        <!--目标文字距离目标点的距离-->
+        <attr name="targetDis" format="float"/>
+
+        <!--数据区圆点半径dp-->
+        <attr name="valuePointRadius" format="float"/>
+
+        <!--数据区边宽度dp-->
+        <attr name="valueLineWidth" format="float"/>
+
+        <!--网线宽度dp-->
+        <attr name="mainLineWidth" format="float"/>
+
+
+    </declare-styleable>
+
+</resources>

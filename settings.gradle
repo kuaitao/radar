@@ -1,0 +1,3 @@
+include ':myRadarlibrary'
+include ':app'
+rootProject.name = "RadarApp"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="defaultradarstyleres">
+        <item name="targetName">目标</item>
+        <item name="maxValue">100</item>
+        <item name="count">6</item>
+        <item name="textSize">14</item>
+        <item name="textColor">#FF000000</item>
+        <item name="overlayColor">#FFFF0000</item>
+        <item name="netColor">#FF000000</item>
+        <item name="expandValue">10</item>
+        <item name="targetDis">5</item>
+        <item name="valuePointRadius">2</item>
+        <item name="valueLineWidth">1</item>
+        <item name="mainLineWidth">0.5</item>
+
+    </style>
+</resources>
